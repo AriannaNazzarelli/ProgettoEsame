@@ -91,5 +91,6 @@ public void stampa(){
 google
 buon pranzo
 	ciao2
+	ciao3
 }
 }
